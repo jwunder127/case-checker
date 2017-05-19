@@ -22,7 +22,7 @@ or
 ```sh
 npm start
 ```
-Make sure you have a data.csv file saved to the case-checker directory (included with this repo). Once the program runs, you can check out your new csv file at newdata.csv (also included with this repo).
+Make sure you have a data.csv file saved to the case-checker directory (included with this repo). Once the program runs, you can check out your newly parsed csv file at newdata.csv (also included with this repo).
 
 ## Testing
 To test key functions of this program:
