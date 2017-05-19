@@ -1,4 +1,7 @@
-//A short dictionary of some of the known problem words
+/*
+This short dictionary highlights some of the words that are problematic in wordnet's lookup. Mostly included are abbrievations and proper nouns that are not recognized by wordnet.
+
+*/
 
 const dictionary = {
                     a: 'a',
