@@ -5,6 +5,12 @@
 ## Overview
 Case Checker will take a comma-separated value (csv) file of ids and descriptions, determine which descriptions are in title case (i.e. the first letter of each word in the description is capitalized), and properly parse them, adhering to sentence structure, proper nouns, and abbreviations.
 
+Example : 
+
+Input: `Offers Adult Education Opportunities, Dependent On Age And Program Needs. Programs Available Include Adult Basic Education, High School Completion, Ged Instruction, And English As A Second Language.`
+
+Output: `Offers adult education opportunities, dependent on age and program needs. Programs available include adult basic education, high school completion, GED instruction, and English as a second language.`
+
 ## Getting Started
 This program uses external libraries that require installation. If you have npm installed (included with node.js installation, see 'Main Tools' below), please run the following terminal command:
 ```sh
